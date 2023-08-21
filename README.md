@@ -38,5 +38,5 @@
     <code><img title="C++" width='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'></code>
     <code><img title="C#" width='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'></code>
     <code><img title="Matlab" width='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/matlab.svg'></code>
+    <code><img title="Latex" width='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/latex.svg'></code>
 </p>
-<code><code/>

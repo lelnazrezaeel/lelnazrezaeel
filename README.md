@@ -3,6 +3,7 @@
   <img src =                  "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGExNzhmMGNkOWZlZWZjN2ZlNWM2NjUxMmI4NGM0ZTdmMDJhZDgxOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/NFGhfDRVAml9khfvzP/giphy.gif" width="28">
 </h3>
 
+<p align='csnter'> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=96CEB4&width=435&lines=Computer+Engineering+student+at+IUST;Passionate+about+AI+and+its+marvels;Avid+learner+and+explorer)](https://git.io/typing-svg) </p>
 <!--
 **lelnazrezaeel/lelnazrezaeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

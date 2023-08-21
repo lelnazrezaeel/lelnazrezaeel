@@ -29,4 +29,14 @@
 </p>
 
 
-## <img width="20" height="20" src="https://img.icons8.com/pastel-glyph/64/96ceb4/code--v1.png" alt="code--v1"/> Languages and Tools
+## <img width="20" height="20" src="https://img.icons8.com/pastel-glyph/64/96ceb4/code--v1.png" alt="code--v1"/> My Skills
+<p align="center">
+    <code><img title="Python" width='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></code>
+    <code><img title="Javascript" width='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></code>
+    <code><img title="Java" width='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'></code>
+    <code><img title="C" width='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'></code>
+    <code><img title="C++" width='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'></code>
+    <code><img title="C#" width='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'></code>
+    <code><img title="Matlab" width='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/matlab.svg'></code>
+</p>
+<code><code/>

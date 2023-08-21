@@ -50,5 +50,5 @@
     <code><img title="OpenCV" width='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg'></code>
     <code><img title="Matplotlib" width="24px" src='https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg'></code>
     <code><img title="NumPy" width="24" src="https://img.icons8.com/color/48/numpy.png"/></code>
-    <code><img title="Google Colab" width="24" height="48" src="https://img.icons8.com/color/48/google-colab.png"/></code>
+    <code><img title="Google Colab" width="30" height="48" src="https://img.icons8.com/color/48/google-colab.png"/></code>
 </p>

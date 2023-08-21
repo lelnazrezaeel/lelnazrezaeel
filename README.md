@@ -61,5 +61,5 @@
     <code><img title='Redux' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'></code>
     <code><img title='SASS' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'></code>
     <code><img title='MUI' width='24' height='24' src='https://img.icons8.com/color/48/material-ui.png'/></code>
-    <code><img title='JSON' width='24' height='24' src='https://img.icons8.com/ios/50/json-download.png'/></code>
+    <code><img title='JSON' width='24' height='24' src='https://img.icons8.com/stickers/100/json-download.png'/></code>
 </p>

@@ -28,4 +28,5 @@
   </a>
 </p>
 
-## <img width="24" height="24" src="https://img.icons8.com/pastel-glyph/64/96ceb4/code--v1.png" alt="code--v1"/> Languages and Tools
+
+## <img width="20" height="20" src="https://img.icons8.com/pastel-glyph/64/96ceb4/code--v1.png" alt="code--v1"/> Languages and Tools

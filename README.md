@@ -1,7 +1,5 @@
-<h3 align="center" color="#96CEB4">
-  <p color="#96CEB4">
-    Delighted to cross paths with you here! 
-  </p>
+<h3 align="center" font-color="#96CEB4">
+    Delighted to cross paths with you here!
   <img src =                  "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGExNzhmMGNkOWZlZWZjN2ZlNWM2NjUxMmI4NGM0ZTdmMDJhZDgxOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/NFGhfDRVAml9khfvzP/giphy.gif" width="28">
 </h3>
 

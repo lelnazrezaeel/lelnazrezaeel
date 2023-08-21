@@ -1,10 +1,10 @@
-<h3 align="center">
+<h3 align="center" color="#96CEB4">
   Delighted to cross paths with you here! 
   <img src =                  "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGExNzhmMGNkOWZlZWZjN2ZlNWM2NjUxMmI4NGM0ZTdmMDJhZDgxOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/NFGhfDRVAml9khfvzP/giphy.gif" width="28">
 </h3>
 
 <p align='center'> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&color=96CEB4&center=true&vCenter=true&width=435&lines=Computer+Engineering+student+at+IUST;Passionate+about+AI+and+its+marvels;Avid+learner+and+explorer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=Computer+Engineering+student+at+IUST;Passionate+about+AI+and+its+marvels;Avid+learner+and+explorer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">

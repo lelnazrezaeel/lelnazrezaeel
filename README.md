@@ -31,12 +31,24 @@
 
 ## <img width="20" height="20" src="https://img.icons8.com/pastel-glyph/64/96ceb4/code--v1.png" alt="code--v1"/> My Skills
 <p align="center">
-    <code><img title="Python" width='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></code>
-    <code><img title="Javascript" width='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></code>
-    <code><img title="Java" width='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'></code>
-    <code><img title="C" width='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'></code>
-    <code><img title="C++" width='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'></code>
-    <code><img title="C#" width='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'></code>
-    <code><img title="Matlab" width='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/matlab.svg'></code>
+    <code><img title="Python" width='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></code>
+    <code><img title="Javascript" width='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></code>
+    <code><img title="Java" width='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'></code>
+    <code><img title="C" width='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'></code>
+    <code><img title="C++" width='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'></code>
+    <code><img title="C#" width='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'></code>
+    <code><img title="Matlab" width='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/matlab.svg'></code>
     <code><img title="Latex" width='24px' src="https://img.icons8.com/color/48/latex.png"></code>
+</p>
+
+<p align="center">
+    <code><img title="Keras" width="24px" src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg'></code>
+    <code><img title="PyTorch" width='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'></code>
+    <code><img title="Tensorflow" width='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'></code>
+    <code><img title="kaggle" width='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kaggle.svg'></code>
+    <code><img title="scikit-learn" width='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'></code>
+    <code><img title="OpenCV" width='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg'></code>
+    <code><img title="Matplotlib" width="24px" src='https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg'></code>
+    <code><img title="NumPy" width="24" src="https://img.icons8.com/color/48/numpy.png"/></code>
+    <code><img title="Google Colab" width="24" height="48" src="https://img.icons8.com/color/48/google-colab.png"/></code>
 </p>

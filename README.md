@@ -63,3 +63,12 @@
     <code><img title='MUI' width='24' height='24' src='https://img.icons8.com/color/48/material-ui.png'/></code>
     <code><img title='JSON' width='24' height='24' src='https://img.icons8.com/stickers/100/json-download.png'/></code>
 </p>
+
+<p>
+    <code><img title='Docker' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'></code>
+    <code><img title='MySQL' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'></code>
+    <code><img title='Postman' width='24px' width='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'></code>
+    <code><img title='Git' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'></code>
+    <code><img title='GitHub' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'></code>
+    <code><img title='Linux' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'></code>
+</p>

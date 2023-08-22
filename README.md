@@ -81,6 +81,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=lelnazrezaeel&theme=vue-dark&hide_border=true&show_icons=true&border_radius=10"/>
 </p>
 <p align=center>
-    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelnazrezaeel&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=vue-dark&hide_border=true&border_radius=10" />
-    <img width=325 src="https://github-readme-activity-graph.vercel.app/graph?username=lelnazrezaeel&bg_color=1e1f26&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelnazrezaeel&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=vue-dark&hide_border=true&border_radius=10" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lelnazrezaeel&theme=vue-dark&hide_border=true&border_radius=10"/>
 </p>

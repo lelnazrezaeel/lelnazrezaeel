@@ -95,6 +95,9 @@
     <a href='https://github.com/lelnazrezaeel/Space-Invader'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Space-Invader&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
+    <a href='https://github.com/lelnazrezaeel/Digital-Library'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Digital-Library&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
     <a href='https://github.com/lelnazrezaeel/News-Classification'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=News-Classification&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>

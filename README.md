@@ -86,6 +86,6 @@
 
 ## <img width='22' height='22' src='https://img.icons8.com/dotty/80/41b883/project-management.png' alt='project-management'/> Projects
 <p align='center'>
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Advanced-Programming-IUST&heme=vue-dark&hide_border=true&border_radius=10&hide_border=true">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Advanced-Programming-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true">
   </a>
 </p>

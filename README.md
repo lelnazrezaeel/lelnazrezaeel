@@ -77,7 +77,7 @@
 
 ## <img width="22" height="22" src="https://img.icons8.com/external-prettycons-solid-prettycons/60/96ceb4/external-graph-business-and-finance-prettycons-solid-prettycons-2.png" alt="external-graph-business-and-finance-prettycons-solid-prettycons-2"/> Stats
 <p align=center>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=%7Celnazrezaeel&theme=vue-dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+    [![GitHub Streak](https://streak-stats.demolab.com?user=lelnazrezaeel&theme=vue-dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=lelnazrezaeel&show_icons=true&bg_color=1e1f26&color=96CEB4&hide_border=true" />
 </p>
 <p align=center>

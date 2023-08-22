@@ -77,10 +77,10 @@
 
 ## <img width="22" height="22" src="https://img.icons8.com/external-prettycons-solid-prettycons/60/96ceb4/external-graph-business-and-finance-prettycons-solid-prettycons-2.png" alt="external-graph-business-and-finance-prettycons-solid-prettycons-2"/> Stats
 <p align=center>
-    <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=lelnazrezaeel&theme=dark&bg_color=4a4e4d&color=96CEB4&hide_border=true"/>
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=lelnazrezaeel&show_icons=true&theme=dark&bg_color=4a4e4d&color=96CEB4&hide_border=true" />
+    <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=lelnazrezaeel&theme=react&bg_color=1e1f26&color=96CEB4&hide_border=true"/>
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=lelnazrezaeel&show_icons=true&theme=react&bg_color=1e1f26&color=96CEB4&hide_border=true" />
 </p>
 <p align=center>
     <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelnazrezaeel&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=96CEB4&text_color=ffffff&icon_color=96CEB4&bg_color=4a4e4d&langs_count=8&layout=compact&hide_border=true" />
-    <img width=325 src="https://github-readme-activity-graph.vercel.app/graph?username=lelnazrezaeel&theme=dark&bg_color=4a4e4d&hide_border=true"/>
+    <img width=325 src="https://github-readme-activity-graph.vercel.app/graph?username=lelnazrezaeel&theme=react&bg_color=1e1f26&hide_border=true"/>
 </p>

@@ -75,4 +75,4 @@
     <code><img title='Visual Studio' width='24' height='24' src='https://img.icons8.com/color/48/visual-studio--v2.png' alt='visual-studio--v2'/></code>
 </p>
 
-## <img width="20" height="20" src="https://img.icons8.com/external-prettycons-solid-prettycons/60/96ceb4/external-graph-business-and-finance-prettycons-solid-prettycons-2.png" alt="external-graph-business-and-finance-prettycons-solid-prettycons-2"/> Stats
+## <img width="22" height="22" src="https://img.icons8.com/external-prettycons-solid-prettycons/60/96ceb4/external-graph-business-and-finance-prettycons-solid-prettycons-2.png" alt="external-graph-business-and-finance-prettycons-solid-prettycons-2"/> Stats

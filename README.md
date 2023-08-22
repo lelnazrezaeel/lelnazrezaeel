@@ -84,4 +84,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelnazrezaeel&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=vue-dark&hide_border=true&border_radius=10" />
 </p>
 
-## <img width="20" height="20" src="https://img.icons8.com/dotty/80/000000/project-management.png" alt="project-management"/> Projects
+## <img width="20" height="20" src="https://img.icons8.com/dotty/80/41b883/project-management.png" alt="project-management"/> Projects

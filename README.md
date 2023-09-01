@@ -105,7 +105,7 @@
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Digital-Logic-Circuits-Lab-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
     <a href='https://github.com/lelnazrezaeel/Electric-Circuits-Lab-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Electric-Circuits-Lab-IUSTT&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Electric-Circuits-Lab-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
     <a href='https://github.com/lelnazrezaeel/Data-Structures-IUST'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Data-Structures-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>

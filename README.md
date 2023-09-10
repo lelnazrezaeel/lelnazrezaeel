@@ -113,6 +113,9 @@
     <a href='https://github.com/lelnazrezaeel/Database-Design-Principles-IUST'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Database-Design-Principles-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
+    <a href='https://github.com/lelnazrezaeel/Operating-Systems-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Operating-Systems-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
     <a href='https://github.com/lelnazrezaeel/Online-Class-Management-System'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Online-Class-Management-System&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
@@ -121,6 +124,9 @@
     </a>
     <a href='https://github.com/lelnazrezaeel/Kadoo-Frontend'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Kadoo-Frontend&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/lelnazrezaeel'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=lelnazrezaeel&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
     <a href='https://github.com/lelnazrezaeel/Digital-Library'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Digital-Library&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>

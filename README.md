@@ -131,8 +131,8 @@
     <a href='https://github.com/lelnazrezaeel/Operating-Systems-Lab-IUST'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Operating-Systems-Lab-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
-    <a href='https://github.com/lelnazrezaeel/Fundamentals-of-Computational-Intelligence'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Fundamentals-of-Computational-Intelligence&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    <a href='https://github.com/lelnazrezaeel/Computational-Intelligence-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computational-Intelligence-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
     <a href='https://github.com/lelnazrezaeel/Online-Class-Management-System'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Online-Class-Management-System&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>

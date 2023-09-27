@@ -161,6 +161,9 @@
     <a href='https://github.com/lelnazrezaeel/Space-Invader'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Space-Invader&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
+    <a href='https://github.com/lelnazrezaeel/Lets-Watch-Frontend'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Lets-Watch-Frontend&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
     <a href='https://github.com/lelnazrezaeel/Kadoo-Frontend'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Kadoo-Frontend&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>

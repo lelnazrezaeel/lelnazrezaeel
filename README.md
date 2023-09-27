@@ -146,6 +146,9 @@
      <a href='https://github.com/lelnazrezaeel/Computer-Networks-IUST'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-Networks-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
+    <a href='https://github.com/lelnazrezaeel/Computer-Networks-Lab-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-Networks-Lab-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
     <a href='https://github.com/lelnazrezaeel/Predicting-COVID-19-From-Chest-X-Ray-Images'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Predicting-COVID-19-From-Chest-X-Ray-Images&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>

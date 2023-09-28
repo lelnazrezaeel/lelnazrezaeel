@@ -85,54 +85,14 @@
 </p>
 
 ## <img width='22' height='22' src='https://img.icons8.com/dotty/80/41b883/project-management.png' alt='project-management'/> Projects
+
+### Computer Vision and Deep Learning
 <p align='center'>
-    <a href='https://github.com/lelnazrezaeel/Fundamentals-of-programming-and-Computer-Science-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Fundamentals-of-programming-and-Computer-Science-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    <a href='https://github.com/lelnazrezaeel/Predicting-COVID-19-From-Chest-X-Ray-Images'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Predicting-COVID-19-From-Chest-X-Ray-Images&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
-    <a href='https://github.com/lelnazrezaeel/Advanced-Programming-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Advanced-Programming-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-    <a href='https://github.com/lelnazrezaeel/Computer-Architecture-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-Architecture-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-    <a href='https://github.com/lelnazrezaeel/Digital-Electronics-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Digital-Electronics-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-    <a href='https://github.com/lelnazrezaeel/Data-Communications-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Data-Communications-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-    <a href='https://github.com/lelnazrezaeel/Digital-Logic-Circuits-Lab-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Digital-Logic-Circuits-Lab-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-    <a href='https://github.com/lelnazrezaeel/Electric-Circuits-Lab-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Electric-Circuits-Lab-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-    <a href='https://github.com/lelnazrezaeel/Data-Structures-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Data-Structures-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-    <a href='https://github.com/lelnazrezaeel/Database-Design-Principles-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Database-Design-Principles-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-    <a href='https://github.com/lelnazrezaeel/Operating-Systems-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Operating-Systems-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-    <a href='https://github.com/lelnazrezaeel/Computer-Aided-Digital-Design-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-Aided-Digital-Design-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-    <a href='https://github.com/lelnazrezaeel/Artificial-Intelligence-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Artificial-Intelligence-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-    <a href='https://github.com/lelnazrezaeel/Compiler-Design-Principles-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Compiler-Design-Principles-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-    <a href='https://github.com/lelnazrezaeel/Computer-Architecture-Lab-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-Architecture-Lab-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-    <a href='https://github.com/lelnazrezaeel/Operating-Systems-Lab-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Operating-Systems-Lab-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-    <a href='https://github.com/lelnazrezaeel/Computational-Intelligence-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computational-Intelligence-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    <a href='https://github.com/lelnazrezaeel/Tile-Crack-Detection'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Tile-Crack-Detection&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
     <a href='https://github.com/lelnazrezaeel/Computer-Vision-IUST'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-Vision-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
@@ -140,52 +100,122 @@
     <a href='https://github.com/lelnazrezaeel/Deep-Learning-IUST'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Deep-Learning-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
-    <a href='https://github.com/lelnazrezaeel/Analysis-and-Design-of-Algorithms-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Analysis-and-Design-of-Algorithms-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-     <a href='https://github.com/lelnazrezaeel/Computer-Networks-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-Networks-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-    <a href='https://github.com/lelnazrezaeel/Computer-Networks-Lab-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-Networks-Lab-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-    <a href='https://github.com/lelnazrezaeel/Microprocessor-Lab-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Microprocessor-Lab-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+</p>
+
+### Natural Language Processing, Machine Learning and Artificial Intelligence
+<p align='center'>
+    <a href='https://github.com/lelnazrezaeel/News-Classification'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=News-Classification&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
     <a href='https://github.com/lelnazrezaeel/Natural-Language-Processing-IUST'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Natural-Language-Processing-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
-    <a href='https://github.com/lelnazrezaeel/Computer-System-Security-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-System-Security-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    <a href='https://github.com/lelnazrezaeel/Computational-Intelligence-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computational-Intelligence-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
-    <a href='https://github.com/lelnazrezaeel/Predicting-COVID-19-From-Chest-X-Ray-Images'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Predicting-COVID-19-From-Chest-X-Ray-Images&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    <a href='https://github.com/lelnazrezaeel/Artificial-Intelligence-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Artificial-Intelligence-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
-    <a href='https://github.com/lelnazrezaeel/Tile-Crack-Detection'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Tile-Crack-Detection&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-    <a href='https://github.com/lelnazrezaeel/Online-Class-Management-System'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Online-Class-Management-System&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-    <a href='https://github.com/lelnazrezaeel/Space-Invader'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Space-Invader&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+</p>  
+
+### Front-end
+<p align='center'>
+    <a href='https://github.com/lelnazrezaeel/Kadoo-Frontend'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Kadoo-Frontend&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
     <a href='https://github.com/lelnazrezaeel/Lets-Watch-Frontend'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Lets-Watch-Frontend&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
-    <a href='https://github.com/lelnazrezaeel/Kadoo-Frontend'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Kadoo-Frontend&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
     <a href='https://github.com/lelnazrezaeel/lelnazrezaeel'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=lelnazrezaeel&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
+</p>
+
+### Hardware
+<p align='center'>
+    <a href='https://github.com/lelnazrezaeel/Computer-Aided-Digital-Design-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-Aided-Digital-Design-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Digital-Electronics-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Digital-Electronics-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Computer-Architecture-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-Architecture-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Microprocessor-Lab-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Microprocessor-Lab-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Digital-Logic-Circuits-Lab-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Digital-Logic-Circuits-Lab-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Computer-Architecture-Lab-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-Architecture-Lab-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Electric-Circuits-Lab-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Electric-Circuits-Lab-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+</p>
+
+### Algorithms, Data Structures and Databases
+<p align='center'>
     <a href='https://github.com/lelnazrezaeel/Digital-Library'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Digital-Library&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
     <a href='https://github.com/lelnazrezaeel/Pharmacy-System'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Pharmacy-System&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
-    <a href='https://github.com/lelnazrezaeel/News-Classification'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=News-Classification&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    <a href='https://github.com/lelnazrezaeel/Online-Class-Management-System'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Online-Class-Management-System&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Analysis-and-Design-of-Algorithms-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Analysis-and-Design-of-Algorithms-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Data-Structures-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Data-Structures-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Database-Design-Principles-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Database-Design-Principles-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Advanced-Programming-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Advanced-Programming-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Fundamentals-of-programming-and-Computer-Science-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Fundamentals-of-programming-and-Computer-Science-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+</p>
+
+### Programming and Software Development
+<p align='center'>
+    <a href='https://github.com/lelnazrezaeel/Compiler-Design-Principles-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Compiler-Design-Principles-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Operating-Systems-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Operating-Systems-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Operating-Systems-Lab-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Operating-Systems-Lab-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+</p>
+
+### Computer Network and Security
+<p align='center'>
+    <a href='https://github.com/lelnazrezaeel/Computer-System-Security-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-System-Security-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Computer-Networks-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-Networks-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Data-Communications-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Data-Communications-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Computer-Networks-Lab-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-Networks-Lab-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+</p>
+
+### Game Development
+<p align='center'>
+    <a href='https://github.com/lelnazrezaeel/Space-Invader'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Space-Invader&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
 </p>

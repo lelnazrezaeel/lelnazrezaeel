@@ -1,5 +1,5 @@
 <h3 align='center'>
-    Delighted to cross paths with you here! <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGExNzhmMGNkOWZlZWZjN2ZlNWM2NjUxMmI4NGM0ZTdmMDJhZDgxOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/NFGhfDRVAml9khfvzP/giphy.gif' width='28'>
+    Delighted to cross paths with you here! <img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTE2M21tdXk4NjFub2lodXJmZXowbWZ2eXAzN2wwNzJwbWdvemxiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohhwMDyS6rv3sB8yI/giphy.gif' width='28'>
 </h3>
 
 <p align='center'> 
